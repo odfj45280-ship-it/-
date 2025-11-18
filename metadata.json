@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Dana AI Assistant",
+  "description": "A comprehensive AI assistant named Dana that answers questions in Kurdish, analyzes images, provides text-to-speech for answers, accepts voice input, and shows the user's location on a map.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
